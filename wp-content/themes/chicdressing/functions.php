@@ -8,6 +8,7 @@ function chicdressing_enqueue_styles() {
 add_filter( 'big_image_size_threshold', '__return_false' );
 
 
-
-
- 
+function remove_google_fonts_stylesheet() {  
+    wp_dequeue_style( 'ashe-playfair-font','ashe-opensans-font','ashe-kalam-font' );
+}
+add_action( 'wp_enqueue_scripts', 'remove_google_fonts_stylesheet', 999 );
