@@ -1,0 +1,2 @@
+2023-07-27T11:28:00+00:00 CRITICAL Out of memory (allocated 25165824) (tried to allocate 569344 bytes) dans C:\MAMP\htdocs\chic_dressing\wp-includes\pomo\streams.php à la ligne 229
+
