@@ -7,7 +7,7 @@ function chicdressing_enqueue_styles() {
 
 add_filter( 'big_image_size_threshold', '__return_false' );
 
-
+// Fonction qui permet de décharger les polices googlefonts
 function remove_google_fonts_stylesheet() {  
     wp_dequeue_style( 'ashe-playfair-font','ashe-opensans-font','ashe-kalam-font' );
 }
