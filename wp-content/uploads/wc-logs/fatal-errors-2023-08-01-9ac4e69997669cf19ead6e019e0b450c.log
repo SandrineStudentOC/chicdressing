@@ -1,0 +1,2 @@
+2023-08-01T13:57:10+00:00 CRITICAL Out of memory (allocated 67108864) (tried to allocate 4096 bytes) dans C:\MAMP\htdocs\chic_dressing\wp-includes\functions.php à la ligne 4811
+

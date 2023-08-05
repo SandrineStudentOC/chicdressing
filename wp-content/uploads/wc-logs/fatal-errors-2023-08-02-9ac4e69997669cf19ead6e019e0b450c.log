@@ -1,0 +1,4 @@
+2023-08-02T10:36:35+00:00 CRITICAL Out of memory (allocated 4194304) (tried to allocate 4194304 bytes) dans C:\MAMP\htdocs\chic_dressing\wp-content\plugins\woocommerce\src\Internal\Admin\Translations.php à la ligne 220
+
+2023-08-02T21:12:12+00:00 CRITICAL Out of memory (allocated 71303168) (tried to allocate 831488 bytes) in C:\MAMP\htdocs\chic_dressing\wp-includes\pomo\streams.php on line 229
+
